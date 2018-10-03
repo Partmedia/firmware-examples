@@ -1,2 +1,4 @@
 *.o
-blink
+*.swp
+blink/blink
+push_blink/push_blink
